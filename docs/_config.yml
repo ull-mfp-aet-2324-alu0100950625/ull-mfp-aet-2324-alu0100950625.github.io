@@ -22,7 +22,7 @@ apuntes_repo: https://github.com/ULL-MFP-AET/ull-mfp-aet.github.io/
 campus_virtual: "https://campusdoctoradoyposgrado2223.ull.es/course/view.php?id=2223110052"
 calificador: https://campusdoctoradoyposgrado2223.ull.es/grade/report/index.php?id=2223110052
 tareas_en_el_campus: https://campusvirtual.ull.es/ingenieriaytecnologia/1920/mod/assign/index.php?id=201911070
-profesor: "https://www.ull.es/apps/guias/guias/view_teacher_niu/984/crguezl/"
+#profesor: "https://www.ull.es/apps/guias/guias/view_teacher_niu/984/crguezl/"
 profesor_github: ivanjtr
 chat: https://chat.google.com
 future: true
